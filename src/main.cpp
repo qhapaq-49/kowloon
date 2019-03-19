@@ -14,8 +14,8 @@ std::mutex mtx;
 int main(int argc,char* argv[]){
 
   // トーナメントモードで呼び出す
-  Tournament::main_tournament(argc,argv);
+  //Tournament::main_tournament(argc,argv);
   // test agentで呼び出す
-  //Testagent::testagent();
+  Testagent::testagent();
   return 0;
 }

@@ -1,5 +1,5 @@
 #include "connection_uec.h"
-#include "daihinmin.h"
+//#include "daihinmin.h"
 #include "config.h"
 #include "position.h"
 #include <iostream>
